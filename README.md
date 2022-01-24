@@ -9,6 +9,7 @@ bft-library.lab is the repository for Billfold Technology library based business
 |  Repository: | [library-lab](https://github.com/Billfold-Technologies/library-lab/) |
 |  Access token: | OAuth |
 |  Nucleus class: | library.lab |
+|  Deployment name: | `npm install` librarylab |
 
 The nucleus class establishes and sets the CLI. The Personal Business Machines (PBM) motherboard hosts seven class series daughterboards and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 | Nucleus Class | Description
